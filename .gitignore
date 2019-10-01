@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.Rproj.user
+
+/02/rintro/rintro_files
+*.Rproj
